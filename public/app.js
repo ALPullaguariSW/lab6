@@ -4,7 +4,7 @@ function sum(a, b) {
     return a + b;
 }
 
-document.write(sum(1, 2));
+document.write("La suma de 1 y 2 es: " + sum(1, 2));
 
 
 
