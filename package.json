@@ -9,7 +9,8 @@
   "scripts": {
     "test": "jest",
     "lint": "npx eslint .",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo 'Build completed successfully'"
   },
   "dependencies": {
     "express": "^5.1.0"
